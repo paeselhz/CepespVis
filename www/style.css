@@ -1,0 +1,52 @@
+/*@import url('https://fonts.googleapis.com/css?family=Faustina:400,700');*/
+
+body {
+  font-family: 'Roboto' !important;
+  font-weight: 300 !important;
+}
+
+.row{
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.container-fluid {
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.navbar {
+	padding-right: 15px;
+	padding-left: 15px;
+	min-height: 50px;
+}
+
+.navbar-nav>li>a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.navbar-brand {
+	margin:0 !important; 
+}
+
+h4{
+	margin-top: 0;
+	margin-bottom: 5px;
+}
+
+.sunburst-sidebar {
+	display: none;
+}
+
+a:hover{
+	color: #003e7e;
+}
+
+.shiny-output-error {
+	visibility: hidden;
+}
+
+.shiny-output-error:before {
+	visibility: hidden;
+}

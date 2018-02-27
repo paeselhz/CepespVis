@@ -4,7 +4,7 @@
 
 Com o objetivo de participar do 1º DESAFIO DO CEPESP: DECIFRANDO AS ELEIÇÕES, a equipe PaeseLab, liderada por Luis Henrique Zanandréa Paese apresenta o projeto CepespVis, um portal de visualização de dados eleitorais, que traz de forma interativa e dinâmica os resultados das eleições desde 1998 até 2016. O projeto foi realizado utilizando software de código aberto, como R para a realização das estatísticas, e a plataforma Shiny, integrante do sistema RStudio, para o desenvolvimento das unidades de front-end e back-end.
 
-Uma versão funcional do aplicativo está disponível em [CepespVis](https://paeselab.com/cepespvis/)
+Uma versão funcional do aplicativo está disponível em [CepespVis](https://paeselab.com/shiny/cepespvis/)
 
 ## Funcionamento da Plataforma
 
